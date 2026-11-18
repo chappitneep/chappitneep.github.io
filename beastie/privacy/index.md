@@ -1,6 +1,6 @@
 ---
 title: "Beastie Odyssey: privacy policy"
-permalink: /vurm/privacy/
+permalink: /beastie/privacy/
 ---
 
 # Beastie Odyssey: privacy policy
